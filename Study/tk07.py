@@ -10,7 +10,7 @@ b1.pack(side = LEFT)
 b2.pack(side = LEFT)
 b3.pack(side = LEFT)
 
-l = Label(w, text = "이 레이블은 버튼들 위에 배치된다.")
+l = Label(w, text = "이 레이블은 버튼들 위에 배치된다.") #쉼표임
 
 l.pack()
 f.pack()
